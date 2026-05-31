@@ -1,7 +1,0 @@
-iact_router.v
-weight_router.v 
-psum_router.v
-Router_Cluster_TOP.v
-Router_Cluster_TOP_tb.v
-
-
